@@ -3,8 +3,8 @@
 Hey y'all. This repo contains some solutions I coded up for Dynamic Programming assignments in an Algorithms course I took Summer 2016. I tried to include one-line summaries of the problems below. There is more detailed documentation in the files themselves. 
 
 ####Solutions1.java contains the following problems:
-* Longest Common Subsequence (+ optimized)
-* Contiguous Subsqeuence
+* Longest Common Subsequence
+* Longest Contiguous Subsqeuence
 * Optimal Sequence of Hotel Stops
 * Yuckdonald's opening restauraunts
 * All Punctuation Removed: is valid sentence?
