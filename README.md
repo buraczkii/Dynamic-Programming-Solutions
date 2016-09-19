@@ -1,6 +1,6 @@
 # Dynamic-Programming-Solutions
 
-Hey y'all. This repo contains some solutions I coded up for Dynamic Programming assignments in an Algorithms course I took Summer 2016. I tried to include one-line summaries of the problems below. There is more detailed documentation in the files themselves. 
+Hey y'all. This repo contains some solutions I coded up for Dynamic Programming assignments in an Algorithms course I took Summer 2016. I tried to include one-line summaries of the problems below. There is more detailed documentation in the files themselves. I tend to mostly make a bottom-up approach as it is more intuitive to me. I think the string splicing operation in Solutions2 is the only one that I used memoization. 
 
 ####Solutions1.java contains the following problems:
 * Longest Contiguous Subsqeuence
