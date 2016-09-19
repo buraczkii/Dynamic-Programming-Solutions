@@ -6,10 +6,9 @@ import java.util.LinkedList;
 /**
  * Created by susannaedens on 6/27/16.
  */
-public class CleanSolutions {
+public class Solutions1 {
 
     /**
-     * Solution for Problem4.
      * <p>
      * Calculate the maximum sum possible of a contiguous sequence in the passed in array. Print the max
      * sum and the numbers in that sequence.
@@ -47,7 +46,6 @@ public class CleanSolutions {
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
 
     /**
-     * Solution for Problem5.
      *
      * Given an array of hotel distances (from the starting point), aim to travel a given amount of miles (goal)
      * each day. You must end at the last hotel in the list of hotels. This algorithm tries to minimize the sum
@@ -86,7 +84,7 @@ public class CleanSolutions {
     }
 
     /**
-     * Helper for Problem 5.
+     * Helper for hotel problem.
      * Calculates and returns the penalty for traveling a certain distance (actual) compared to the goal.
      *
      * @param goal   the desired number of miles to travel
@@ -100,7 +98,6 @@ public class CleanSolutions {
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
 
     /**
-     * Solution for Problem6.
      * Yuckdonald's is opening restaurants along a strip of highway. You are given the distances from the starting
      * point of the possible locations of the highways and the profits at each of these locations. You can only
      * have one restaurant at each location and each location must be at least (min) miles apart.
@@ -133,7 +130,6 @@ public class CleanSolutions {
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
 
     /**
-     * Solution for Problem7.
      * <p>
      * Given an array of characters, determine if it is possible to break up the characters such that you form
      * a valid sentence. If you receive a valid sentence, print the words out. If not, print out a statement
@@ -187,7 +183,6 @@ public class CleanSolutions {
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
 
     /**
-     * Solution for problem8.
      *
      * We have a n x 4 checkerboard which is filled with various integers representing the value at that square.
      * With 2n pebbles, we want to place the pebbles on the board and maximize the value of the board. The constraint
@@ -266,7 +261,6 @@ public class CleanSolutions {
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
 
     /**
-     * Solution for problem 9.
      *
      * We are given a definition for multiplication operations on three symbols: a, b, c (these are held within the
      * given math matrix). Given a string of characters, we examine these characters and determine if it is possible
