@@ -11,7 +11,7 @@ Hey y'all. This repo contains some solutions I coded up for Dynamic Programming 
 * ABC Multiplication Operations (solution needs work)
 
 ####Solutions2.java contains the following problems:
-* Is it a palindrome?
+* Longest Palindrome
 * Longest Common Substring
 * Primitive String Splicing Operation
 * Counting heads: probability
